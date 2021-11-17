@@ -1,0 +1,1385 @@
+{   
+    
+    "Backdrop": [
+        {   "Category" : "Backdrop",
+            "Attribute": "#7850FF",
+            "Percentage": "12.11%",
+            "Quantity": "1201"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#FCC3D1",
+            "Percentage": "9.974%",
+            "Quantity": "989"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#6D5D70",
+            "Percentage": "9.954%",
+            "Quantity": "987"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#ACE5F3",
+            "Percentage": "9.944%",
+            "Quantity": "986"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#FF8749",
+            "Percentage": "9.883",
+            "Quantity": "980"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#33FFFF",
+            "Percentage": "9.722%",
+            "Quantity": "964"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#FFF75F",
+            "Percentage": "9.238%",
+            "Quantity": "916"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#F13441",
+            "Percentage": "9.187%",
+            "Quantity": "911"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#707138",
+            "Percentage": "9.016%",
+            "Quantity": "894"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#56E5B7",
+            "Percentage": "8.058%",
+            "Quantity": "799"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "#FE658A",
+            "Percentage": "2.763%",
+            "Quantity": "274"
+        },
+        {   
+            "Category" : "Backdrop",
+            "Attribute": "Pastel",
+            "Percentage": "0.151%",
+            "Quantity": "15"
+        }
+        
+    ],
+    "Background": [
+        
+        {   
+            "Category" : "Background",
+            "Attribute": "ADA bag",
+            "Percentage": "6.444%",
+            "Quantity": "639"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Planet",
+            "Percentage": "6.192%",
+            "Quantity": "614"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Cake",
+            "Percentage": "6.031%",
+            "Quantity": "598"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Frustrated emote",
+            "Percentage": "6.000%",
+            "Quantity": "595"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Dot emote",
+            "Percentage": "5.627%",
+            "Quantity": "558"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Heart emote",
+            "Percentage": "5.516%",
+            "Quantity": "547"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Skull emote",
+            "Percentage": "5.365%",
+            "Quantity": "532"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Pixie",
+            "Percentage": "5.345%",
+            "Quantity": "530"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Star expression",
+            "Percentage": "5.325%",
+            "Quantity": "528"
+        },
+        {   
+            "Category" : "Background",
+            "Attribute": "Stars",
+            "Percentage": "4.629%",
+            "Quantity": "459"
+        },
+        {
+            "Category": "Background",
+            "Attribute" : "None",
+            "Quantity" : "4324",
+            "Percentage" : "43,5%"
+        }
+        
+    ],
+    "Backpack": [
+    
+        {
+            "Category" : "Backpack",
+            "Attribute": "Spoopy wings",
+            "Percentage": "4.871%",
+            "Quantity": "483"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Dark wings",
+            "Percentage": "4.578%",
+            "Quantity": "454"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Angelic wings",
+            "Percentage": "4.538%",
+            "Quantity": "450"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Jetpack",
+            "Percentage": "4.145%",
+            "Quantity": "411"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Longsword",
+            "Percentage": "4.014%",
+            "Quantity": "398"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Pickaxe",
+            "Percentage": "3.973%",
+            "Quantity": "394"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Angel wings",
+            "Percentage": "3.822%",
+            "Quantity": "379"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Elf ears",
+            "Percentage": "3.822%",
+            "Quantity": "379"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Devil tail",
+            "Percentage": "3.620%",
+            "Quantity": "359"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Battle axe",
+            "Percentage": "3.600%",
+            "Quantity": "357"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Tiny wings",
+            "Percentage": "3.469%",
+            "Quantity": "344"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Fluffy wings",
+            "Percentage": "3.308%",
+            "Quantity": "328"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Butterfly wings",
+            "Percentage": "3.116%",
+            "Quantity": "309"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Scythe",
+            "Percentage": "2.864%",
+            "Quantity": "284"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Fairy wings",
+            "Percentage": "2.713%",
+            "Quantity": "269"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Bat wings",
+            "Percentage": "2.098%",
+            "Quantity": "208"
+        },
+        {   
+            "Category" : "Backpack",
+            "Attribute": "Demon wings",
+            "Percentage": "2.077%",
+            "Quantity": "206"
+        },
+        {
+            "Category": "Backpack",
+            "Attribute" : "None",
+            "Quantity" : "3919",
+            "Percentage" : "39,42%"
+        }
+        
+    ],
+    "Body": [
+        {  
+            "Category" : "Body",
+            "Attribute": "#FFFFFF",
+            "Percentage": "16.74%",
+            "Quantity": "1660"
+        },
+        {   
+            "Category" : "Body",
+            "Attribute": "#FFF75F",
+            "Percentage": "15.77%",
+            "Quantity": "1564"
+        },
+        {   
+            "Category" : "Body",
+            "Attribute": "#56E5B7",
+            "Percentage": "15.53%",
+            "Quantity": "1540"
+        },
+        {   
+            "Category" : "Body",
+            "Attribute": "#33FFFF",
+            "Percentage": "14.94%",
+            "Quantity": "1481"
+        },
+        {   
+            "Category" : "Body",
+            "Attribute": "#ACE5F3",
+            "Percentage": "14.55%",
+            "Quantity": "1443"
+        },
+        {   
+            "Category" : "Body",
+            "Attribute": "#88E276",
+            "Percentage": "11.92%",
+            "Quantity": "1182"
+        },
+        {   
+            "Category" : "Body",
+            "Attribute": "#FF8FAC",
+            "Percentage": "10.40%",
+            "Quantity": "1031"
+        },
+        {   
+            "Category" : "Body",
+            "Attribute": "RGB",
+            "Percentage": "0.151%",
+            "Quantity": "15"
+        }  
+    ],
+    "Eyes": [
+        {
+            "Category" : "Eyes",
+            "Attribute": "Bored",
+            "Percentage": "4.286%",
+            "Quantity": "425"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Bee",
+            "Percentage": "4.004%",
+            "Quantity": "397"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Rekt",
+            "Percentage": "3.772%",
+            "Quantity": "374"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Tired",
+            "Percentage": "3.741%",
+            "Quantity": "371"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Sleepy",
+            "Percentage": "3.721%",
+            "Quantity": "369"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Normal",
+            "Percentage": "3.681%",
+            "Quantity": "365"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Evil",
+            "Percentage": "3.671%",
+            "Quantity": "364"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Lashy",
+            "Percentage": "3.661%",
+            "Quantity": "363"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Squint",
+            "Percentage": "3.661%",
+            "Quantity": "363"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Not looking",
+            "Percentage": "3.651%",
+            "Quantity": "362"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Happy",
+            "Percentage": "3.651%",
+            "Quantity": "362"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Cute",
+            "Percentage": "3.560%",
+            "Quantity": "353"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Zombie",
+            "Percentage": "3.550%",
+            "Quantity": "352"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Awake",
+            "Percentage": "3.550%",
+            "Quantity": "352"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Angry",
+            "Percentage": "3.540%",
+            "Quantity": "351"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Winkyface",
+            "Percentage": "3.530%",
+            "Quantity": "350"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Happy squint",
+            "Percentage": "3.509%",
+            "Quantity": "348"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Content",
+            "Percentage": "3.479%",
+            "Quantity": "345"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Blank",
+            "Percentage": "3.469%",
+            "Quantity": "344"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Triumph",
+            "Percentage": "3.469%",
+            "Quantity": "344"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Shut",
+            "Percentage": "3.459%",
+            "Quantity": "343"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Calm",
+            "Percentage": "3.348%",
+            "Quantity": "332"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Baby",
+            "Percentage": "3.278%",
+            "Quantity": "325"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Creepy",
+            "Percentage": "3.157%",
+            "Quantity": "313"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Droid",
+            "Percentage": "3.126%",
+            "Quantity": "310"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Pinpoint",
+            "Percentage": "3.086%",
+            "Quantity": "306"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Woozy",
+            "Percentage": "2.874%",
+            "Quantity": "285"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Love",
+            "Percentage": "2.753%",
+            "Quantity": "273"
+        },
+        {   
+            "Category" : "Eyes",
+            "Attribute": "Cyclops",
+            "Percentage": "1.765%",
+            "Quantity": "175"
+        }
+        
+    ],
+    "Face": [
+        
+        {
+            "Category" : "Face",
+            "Attribute": "Lightning bolt tattoo",
+            "Percentage": "4.286%",
+            "Quantity": "425"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Shield",
+            "Percentage": "4.104%",
+            "Quantity": "407"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Gas mask",
+            "Percentage": "3.913%",
+            "Quantity": "388"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "ADA necklace",
+            "Percentage": "3.822%",
+            "Quantity": "379"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Eye scar",
+            "Percentage": "3.802%",
+            "Quantity": "377"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Bubble gum",
+            "Percentage": "3.762%",
+            "Quantity": "373"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Bullet holes",
+            "Percentage": "3.681%",
+            "Quantity": "365"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Gas mask graffiti",
+            "Percentage": "3.610%",
+            "Quantity": "358"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "ADA tattoo",
+            "Percentage": "3.499%",
+            "Quantity": "347"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Side pistol",
+            "Percentage": "3.429%",
+            "Quantity": "340"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Clown blush",
+            "Percentage": "3.177%",
+            "Quantity": "315"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Long shield",
+            "Percentage": "2.955%",
+            "Quantity": "293"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Tears",
+            "Percentage": "2.743%",
+            "Quantity": "272"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Sweat",
+            "Percentage": "2.541%",
+            "Quantity": "252"
+        },
+        {   
+            "Category" : "Face",
+            "Attribute": "Party blower",
+            "Percentage": "2.340%",
+            "Quantity": "232"
+        },
+        {
+            "Category": "Face",
+            "Attribute" : "None",
+            "Quantity" : "4809",
+            "Percentage" : "48,375%"
+        }
+
+        
+    ],
+    "Glasses": [
+        
+        {
+            "Category" : "Glasses",
+            "Attribute": "Shield sunglasses",
+            "Percentage": "5.990%",
+            "Quantity": "594"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "AR goggles",
+            "Percentage": "5.779%",
+            "Quantity": "573"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Eye patch",
+            "Percentage": "5.537%",
+            "Quantity": "549"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Stylish glasses",
+            "Percentage": "4.639%",
+            "Quantity": "460"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Monocle",
+            "Percentage": "4.548%",
+            "Quantity": "451"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Nerdy glasses",
+            "Percentage": "4.528%",
+            "Quantity": "449"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Reading glasses",
+            "Percentage": "4.447%",
+            "Quantity": "441"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Sunglasses",
+            "Percentage": "4.316%",
+            "Quantity": "428"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Ghost pods",
+            "Percentage": "3.691%",
+            "Quantity": "366"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Hot glasses",
+            "Percentage": "3.600%",
+            "Quantity": "357"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Heart glasses",
+            "Percentage": "3.046%",
+            "Quantity": "302"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Medical eye patch",
+            "Percentage": "2.945%",
+            "Quantity": "292"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Snorkel",
+            "Percentage": "1.956%",
+            "Quantity": "194"
+        },
+        {   
+            "Category" : "Glasses",
+            "Attribute": "Monk blindfold",
+            "Percentage": "1.432%",
+            "Quantity": "142"
+        },
+        {
+            "Category": "Glasses",
+            "Attribute" : "None",
+            "Quantity" : "4325",
+            "Percentage" : "43,5%"
+        }
+        
+    ],
+    "Hands": [
+      
+        {
+            "Category" : "Hands",
+            "Attribute": "Gamepad",
+            "Percentage": "3.681%",
+            "Quantity": "365"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Ghost on string",
+            "Percentage": "3.560%",
+            "Quantity": "353"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Rifle",
+            "Percentage": "3.429%",
+            "Quantity": "340"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Shotgun",
+            "Percentage": "3.328%",
+            "Quantity": "330"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Barbell",
+            "Percentage": "3.247%",
+            "Quantity": "322"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Guitar",
+            "Percentage": "3.177%",
+            "Quantity": "315"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Hockey stick",
+            "Percentage": "3.086%",
+            "Quantity": "306"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Knife",
+            "Percentage": "2.874%",
+            "Quantity": "285"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Shuriken",
+            "Percentage": "2.793%",
+            "Quantity": "277"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Moon wand",
+            "Percentage": "2.713%",
+            "Quantity": "269"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Scimitar",
+            "Percentage": "2.693%",
+            "Quantity": "267"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Pencil",
+            "Percentage": "2.693%",
+            "Quantity": "267"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Tennis racket",
+            "Percentage": "2.683%",
+            "Quantity": "266"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Wrench",
+            "Percentage": "2.541%",
+            "Quantity": "252"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Shovel",
+            "Percentage": "2.511%",
+            "Quantity": "249"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Hammer",
+            "Percentage": "2.511%",
+            "Quantity": "249"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Broomstick",
+            "Percentage": "2.491%",
+            "Quantity": "247"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Crowbar",
+            "Percentage": "2.461%",
+            "Quantity": "244"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Fishing rod",
+            "Percentage": "2.380%",
+            "Quantity": "236"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Magic wand",
+            "Percentage": "2.340%",
+            "Quantity": "232"
+        },
+        {   
+            "Category" : "Hands",
+            "Attribute": "Piercing",
+            "Percentage": "2.188%",
+            "Quantity": "217"
+        },
+        {
+            "Category": "Hands",
+            "Attribute" : "None",
+            "Quantity" : "4035",
+            "Percentage" : "40,59%"
+        }
+        
+    ],
+    "Hats": [
+    
+        {   
+            "Category" : "Hats",
+            "Attribute": "ADA hat",
+            "Percentage": "0.998%",
+            "Quantity": "99",
+            "undefined": "NOT INCLUDED IN GRAPH: NONE"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Army helmet",
+            "Percentage": "0.746%",
+            "Quantity": "74"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Axe",
+            "Percentage": "0.504%",
+            "Quantity": "50"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Bat friend",
+            "Percentage": "1.170%",
+            "Quantity": "116"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Bird friend",
+            "Percentage": "1.069%",
+            "Quantity": "106"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Black pirate snapback",
+            "Percentage": "1.422%",
+            "Quantity": "141"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Bomb",
+            "Percentage": "1.190%",
+            "Quantity": "118"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Bunny ears",
+            "Percentage": "0.656%",
+            "Quantity": "65"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cardano logo",
+            "Percentage": "0.928%",
+            "Quantity": "92"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cat ears",
+            "Percentage": "0.857%",
+            "Quantity": "85"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cat friend",
+            "Percentage": "1.089%",
+            "Quantity": "108"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Chef hat",
+            "Percentage": "1.271%",
+            "Quantity": "126"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cherry on top",
+            "Percentage": "1.109%",
+            "Quantity": "110"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Circlet",
+            "Percentage": "0.686%",
+            "Quantity": "68"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cowboy hat",
+            "Percentage": "1.049%",
+            "Quantity": "104"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cowgirl hat",
+            "Percentage": "0.938%",
+            "Quantity": "93"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Crabby friend",
+            "Percentage": "1.089%",
+            "Quantity": "108"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Crown",
+            "Percentage": "1.251%",
+            "Quantity": "124"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cute cap",
+            "Percentage": "1.271%",
+            "Quantity": "126"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Cyborg",
+            "Percentage": "0.605%",
+            "Quantity": "60"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Deadpxlz hat",
+            "Percentage": "1.361%",
+            "Quantity": "135"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Devil horns",
+            "Percentage": "1.069%",
+            "Quantity": "106"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Explorer",
+            "Percentage": "0.645%",
+            "Quantity": "64"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Fast food hat",
+            "Percentage": "1.049%",
+            "Quantity": "104"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Frankenhair",
+            "Percentage": "0.988%",
+            "Quantity": "98"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Frog friend",
+            "Percentage": "1.230%",
+            "Quantity": "122"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Halo",
+            "Percentage": "1.291%",
+            "Quantity": "128"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Headphones",
+            "Percentage": "0.857%",
+            "Quantity": "85"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Headset",
+            "Percentage": "0.766%",
+            "Quantity": "76"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Heart antenna",
+            "Percentage": "0.585%",
+            "Quantity": "58"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Hot head",
+            "Percentage": "0.837%",
+            "Quantity": "83"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Mohawk",
+            "Percentage": "1.261%",
+            "Quantity": "125"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Monkey friend",
+            "Percentage": "1.160%",
+            "Quantity": "115"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Mushroom hat",
+            "Percentage": "0.988%",
+            "Quantity": "98"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Nurse's cap",
+            "Percentage": "1.029%",
+            "Quantity": "102"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Octopus friend",
+            "Percentage": "1.160%",
+            "Quantity": "115"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Parrot friend",
+            "Percentage": "0.877%",
+            "Quantity": "87"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Party hat",
+            "Percentage": "1.099%",
+            "Quantity": "109"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Pigtails",
+            "Percentage": "1.281%",
+            "Quantity": "127"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Pirate hat",
+            "Percentage": "0.807%",
+            "Quantity": "80"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Plaid hat",
+            "Percentage": "0.777%",
+            "Quantity": "77"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Princess wizard",
+            "Percentage": "0.938%",
+            "Quantity": "93"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Rabbit ears",
+            "Percentage": "0.988%",
+            "Quantity": "98"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Rainbow",
+            "Percentage": "0.534%",
+            "Quantity": "53"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Rasta dreads",
+            "Percentage": "1.008%",
+            "Quantity": "100"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Reaper hoodie",
+            "Percentage": "0.282%",
+            "Quantity": "28"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Rubber ducky",
+            "Percentage": "1.311%",
+            "Quantity": "130"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Sailor hat",
+            "Percentage": "1.029%",
+            "Quantity": "102"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Santa hat",
+            "Percentage": "0.978%",
+            "Quantity": "97"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Shooting star",
+            "Percentage": "0.817%",
+            "Quantity": "81"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Sombrero",
+            "Percentage": "0.797%",
+            "Quantity": "79"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Space helmet",
+            "Percentage": "0.837%",
+            "Quantity": "83"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Star antennas",
+            "Percentage": "1.382%",
+            "Quantity": "137"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Static",
+            "Percentage": "1.039%",
+            "Quantity": "103"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Super hair",
+            "Percentage": "1.210%",
+            "Quantity": "120"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Tennis ball",
+            "Percentage": "1.049%",
+            "Quantity": "104"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Top hat",
+            "Percentage": "0.978%",
+            "Quantity": "97"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Toque",
+            "Percentage": "0.998%",
+            "Quantity": "99"
+        },
+        
+        {   
+            "Category" : "Hats",
+            "Attribute": "Unicorn hat",
+            "Percentage": "0.766%",
+            "Quantity": "76"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Viking helmet",
+            "Percentage": "0.242%",
+            "Quantity": "24"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "White ADA snapback",
+            "Percentage": "1.301%",
+            "Quantity": "129"
+        },
+        {   
+            "Category" : "Hats",
+            "Attribute": "Witch hat",
+            "Percentage": "1.069%",
+            "Quantity": "106"
+        },
+        {
+            "Category": "Hats",
+            "Attribute" : "None",
+            "Quantity" : "3923",
+            "Percentage" : "39,463%"
+        }
+    ],
+    "Outfit": [
+     
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Skull t-shirt",
+            "Percentage": "3.520%",
+            "Quantity": "349"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Shirt and tie",
+            "Percentage": "3.197%",
+            "Quantity": "317"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Mummy",
+            "Percentage": "3.177%",
+            "Quantity": "315"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Tux shirt and tie",
+            "Percentage": "3.146%",
+            "Quantity": "312"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Bandaid",
+            "Percentage": "3.035%",
+            "Quantity": "301"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Lifeguard t-shirt",
+            "Percentage": "2.925%",
+            "Quantity": "290"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "T-shirt",
+            "Percentage": "2.844%",
+            "Quantity": "282"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Aikido gi",
+            "Percentage": "2.844%",
+            "Quantity": "282"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Overalls",
+            "Percentage": "2.804%",
+            "Quantity": "278"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Bandaid confetti cute",
+            "Percentage": "2.612%",
+            "Quantity": "259"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Bandaid confetti skull",
+            "Percentage": "2.551%",
+            "Quantity": "253"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Spoopy skeleton",
+            "Percentage": "2.521%",
+            "Quantity": "250"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Stache",
+            "Percentage": "2.441%",
+            "Quantity": "242"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Zombie",
+            "Percentage": "2.370%",
+            "Quantity": "235"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Ninjutsu gi",
+            "Percentage": "2.017%",
+            "Quantity": "200"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Jester",
+            "Percentage": "1.926%",
+            "Quantity": "191"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Spliff",
+            "Percentage": "1.906%",
+            "Quantity": "189"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Medical mask",
+            "Percentage": "1.684%",
+            "Quantity": "167"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Floaty flamingo",
+            "Percentage": "1.674%",
+            "Quantity": "166"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Bloody",
+            "Percentage": "1.563%",
+            "Quantity": "155"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Robot",
+            "Percentage": "0.887%",
+            "Quantity": "88"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Vampire suit",
+            "Percentage": "0.877%",
+            "Quantity": "87"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Nurse's pack",
+            "Percentage": "0.787%",
+            "Quantity": "78"
+        },
+        {   
+            "Category" : "Outfit",
+            "Attribute": "Bat mask",
+            "Percentage": "0.383%",
+            "Quantity": "38"
+        },
+        {
+            "Category": "Outfit",
+            "Attribute" : "None",
+            "Quantity" : "4602",
+            "Percentage" : "46,3%"
+        }
+    ],
+
+    "BlastOff": [
+       
+        {   
+            "Category" : "Blast-off",
+            "Attribute": "true",
+            "Percentage": "4.145%",
+            "Quantity": "411"
+        },
+        {
+            "Category" : "Blast-off",
+            "Attribute": "false",
+            "Percentage": "95,855%",
+            "Quantity": "9530" 
+        }
+        
+    ],
+    "HideMe": [
+     
+        {
+            "Category" : "Hide-me",
+            "Attribute": "true",
+            "Percentage": "0.161%",
+            "Quantity": "16"
+        },
+        {
+            "Category" : "Hide-me",
+            "Attribute": "false",
+            "Percentage": "99,839%",
+            "Quantity": "9925"
+        }
+    ]
+}

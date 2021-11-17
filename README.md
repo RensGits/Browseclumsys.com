@@ -1,1 +1,5 @@
-A Vue.js web app displaying various web & mobile related styling, animations and more.
+With a market cap of more then 5 billion us dollars, Non-Fungible Tokens are now a considerable portion of the worlds art market. Recently the NFT market on the Cardano blockchain has been getting more and more traction. The largest Cardano NFT marketplace CNFT.io has had a modest 400.000 sales since their launch with a total volume of 73.000.000 ADA spent, equating to about 140.000.000 us dollars at the time of writing. Most of the art sold on these platforms are in the form of collectibles of which every piece is unique or sold in a limited quanity. One of these projects are the Clumsy Ghosts.
+
+The project consists of 10.000 unique characters generated using a randomized algorithm that assembles hand-drawn assets together into a unique collectible. The value of these characters is then decided largely by the rarity of traits they posses.
+
+Browseclumsys.com is Vue.js based tool to search, filter and compare assets of these so called clumsy ghosts. Browseclumsys.com offers users a quick and easy way to compare thousands of characters and how rare their traits are.

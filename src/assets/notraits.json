@@ -1,0 +1,46 @@
+[
+
+{
+    "Category": "Background",
+    "Attribute" : "None",
+    "Quantity" : "4324",
+    "Percentage" : "43,5%"
+},
+{
+    "Category": "Backpack",
+    "Attribute" : "None",
+    "Quantity" : "3919",
+    "Percentage" : "39,42%"
+},
+{
+    "Category": "Face",
+    "Attribute" : "None",
+    "Quantity" : "4809",
+    "Percentage" : "48,375%"
+},
+{
+    "Category": "Glasses",
+    "Attribute" : "None",
+    "Quantity" : "4325",
+    "Percentage" : "43,5%"
+},
+{
+    "Category": "Hands",
+    "Attribute" : "None",
+    "Quantity" : "4035",
+    "Percentage" : "40,59%"
+},
+{
+    "Category": "Hats",
+    "Attribute" : "None",
+    "Quantity" : "3923",
+    "Percentage" : "39,463%"
+},
+{
+    "Category": "Outfit",
+    "Attribute" : "None",
+    "Quantity" : "4602",
+    "Percentage" : "46,3%"
+}
+
+]
